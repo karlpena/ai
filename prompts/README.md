@@ -1,8 +1,11 @@
 How it works - manual to start with, easy to automate/ammend --
 
 1 - User stages an original prompt in Claude -  but does not hit enter yet
+
 2 - User pastes the body of the "prompt-enhancer" file below their staged prompt, then fixes top lines so they're encapsulated by quotation marks
+
 3 - User submits the combined contents and hits enter, and then waits for the rewritten prompt to get output to them
+
 4 - User copies the output and, verbatim, pastes that output back into Claude...  enjoy a snack and await the results. 
 
 
