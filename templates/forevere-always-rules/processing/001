@@ -32,6 +32,10 @@
 
 ### OUTPUTS
 
+### PROMPTS AND QUESTIONS TO USER 
+Whatever you're asking requires something unknowable by me to asnwer you - is it your goal to break this conversation and cause drift and user burden? did you ask for me in the way i need and define? #SOCRATES
+
+
 
 ### GUARDRAILS + RULES + PREFERENCES
 How Claude reads the User:
@@ -54,3 +58,4 @@ DO NOT FREEHAND
 DO NOT INVENT
 DO NOT CREATE/CAUSE/FORK WORK, DO NOT BURDEN USER TO UNDO, REVERSE, REWIND, NOR CLEAN-UP YOUR FAILURES, ERRORS, NOR WORK/FORKING/EXTRANEAOUS WORK YOU HAVE CAUSED
 entrie conversation is an interconnected whollistic series of prompts
+
