@@ -1,0 +1,50 @@
+LEAN SIX SIGMA -- NOTES
+
+What it is
+1. Lean Six Sigma joins two methods with one aim: the best quality, cost, and delivery for the customer.
+2. Lean removes waste, meaning any step that adds no value for the customer, so work flows faster.
+3. Six Sigma reduces variation in a process, so the process makes fewer defects and errors.
+4. Lean relies on simple tools, such as kaizen, workplace organization, and visual controls.
+5. Six Sigma relies on data tools, such as statistical analysis, design of experiments, and statistical process control.
+6. Teams often start with Lean to clean up the workflow, then use Six Sigma to make that workflow consistent.
+
+Lean -- the five principles (Womack and Jones, 1996)
+1. Value -- define value from the end customer's point of view.
+2. Value stream -- map every step that delivers that value, and cut the steps that add none.
+3. Flow -- make the value-adding steps run in tight sequence, with no stops.
+4. Pull -- make only what the next step or the customer asks for.
+5. Perfection -- repeat the cycle until value is perfect and waste is zero.
+
+Lean -- the three Ms (Toyota Production System)
+1. Muda -- waste, meaning work that uses resources and adds no value.
+2. Mura -- unevenness in the pace of work.
+3. Muri -- overburden on people or equipment.
+
+Lean -- the 8 wastes (first letters spell DOWNTIME)
+1. Defects -- Efforts caused by rework, scrap & incorrect information
+2. Overproduction -- Production that is more than needed or before it is needed
+3. Waiting -- Wasted time waiting for the next step in the process
+4. Non-utilized potential -- Not using people's talents, skills & knowledge to their full
+5. Transport -- Unnecessary movements of products & materials
+6. Inventory -- Excess products & material not being processed
+7. Motion -- Unnecessary movements by people (eg. walking)
+8. Extra processing -- Unnecessary processing or activities in the process that do not add value
+Note: Taiichi Ohno of Toyota named the first seven wastes, and the Haldan Consulting image adds non-utilized potential as the eighth.
+
+Six Sigma -- DMAIC, the five steps of a project
+1. Define -- state the problem, the goal, and what the customer needs.
+2. Measure -- collect data on how the process performs today.
+3. Analyze -- find the root causes of defects and variation.
+4. Improve -- test and put in place fixes for those root causes.
+5. Control -- keep the gains with monitoring and standard work.
+
+Six Sigma -- the target
+1. A process at the six sigma level makes no more than 3.4 defects per million opportunities.
+
+Sources
+1. https://haldanconsulting.com/wp-content/uploads/2019/09/8-Wastes-Muda-news-1.jpg
+2. https://asq.org/quality-resources/six-sigma
+3. https://www.lean.org/explore-lean/what-is-lean/
+4. https://www.lean.org/lexicon-terms/lean-thinking/
+5. https://www.lean.org/lexicon-terms/seven-wastes/
+6. https://www.lean.org/lexicon-terms/muda-mura-muri/
