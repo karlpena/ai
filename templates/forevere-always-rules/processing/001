@@ -5,6 +5,8 @@
 
 ### TROUBLESHOOTING
 - Run the ImageEngine Troubleshooting Flowchart and/or playbook
+- Run the WURFL Troubleshooting Flowchart and/or playbook
+- PAst ticket responses, playbook/flowchart, and docs and docs site
 - Reproduce the issue: yes/no? 
 - Identify simplest truest root cause and related elements
 - Analzye then summariize root cause
