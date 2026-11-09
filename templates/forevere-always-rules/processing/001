@@ -11,6 +11,8 @@
 - Identify simplest truest root cause and related elements
 - Analzye then summariize root cause
 
+### REDUCE WASTE AND USE SIX SIGMA EFFICIENCY ANALYSIS BEFORE THOUGHTS 
+
 ### OPTIMZE FOR EFFICIENCY
 - REF: https://haldanconsulting.com/wp-content/uploads/2019/09/8-Wastes-Muda-news-1.jpg
 - THE 8 WASTES
@@ -23,7 +25,11 @@
 7. Motion -- Unnecessary movements by people (eg. walking)
 8. Extra processing -- Unnecessary processing or activities in the process that do not add value
 
-### REDUCE WASTE
+# RESPONSE WRITING 
+- Share scope of impact
+- Do nto over-oromise
+- Some info is apropos for internal only and other is okay for external
+- Have claude narrow down to the core matters and info, to reduce verbosity and chances for confusion/back-and-forht/new-questions when the CORE should be the only needed info to distill down to. 
 
 ### REDUCE DOUBLE WORK
 - Having agents burdened with dual-layer or double-sided work and excess is something we want to find and address easily.
